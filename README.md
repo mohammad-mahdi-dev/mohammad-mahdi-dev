@@ -1,7 +1,12 @@
 ### Hi there 👋
-![Github stats](https://github-readme-stats.vercel.app/api?username=mohammad-mahdi-dev&theme=radical&show_icons=true&count_private=true)
-###  
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-mahdi-dev)
+![GitHub followers](https://img.shields.io/github/followers/mohammad-mahdi-dev?logo=github&style=for-the-badge "Follow my GitHub profile!")
+[![Telegram Channel](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Frunkit.io%2Fdamiankrawczyk%2Ftelegram-badge%2Fbranches%2Fmaster%3Furl%3Dhttps%3A%2F%2Ft.me%2Funix_hub "Join my channel!")](https://t.me/unix_hub)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohammad.mahdi.dev@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-pv-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mohammad_mahdi_dev)
+[![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohammad-mahdi.ir)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=mohammad-mahdi-dev&theme=radical&show_icons=true&count_private=true) -->
+<!-- ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-mahdi-dev) -->
+
 <!--
 **mohammad-mahdi-dev/mohammad-mahdi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
