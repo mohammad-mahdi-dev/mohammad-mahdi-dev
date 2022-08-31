@@ -5,12 +5,9 @@
 [![Telegram](https://img.shields.io/badge/Telegram-pv-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mohammad_mahdi_dev)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mohammad-mahdi.ir)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=mohammad-mahdi-dev&theme=radical&show_icons=true&count_private=true)
+
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad-mahdi-dev)
 
-<!--
-**mohammad-mahdi-dev/mohammad-mahdi-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -20,4 +17,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
