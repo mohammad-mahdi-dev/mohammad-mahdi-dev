@@ -21,7 +21,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![linux](https://img.shields.io/badge/linux-%23000.svg?style=for-the-badge&logo=linux&logoColor=white)
-![Telegram Bot ](https://img.shields.io/badge/.JS-white.svg?style=for-the-badge&logo=jquery&logoColor=yellowgreen)
+
 
 ### 🌐 Socials
 ![GitHub followers](https://img.shields.io/github/followers/mohammad-mahdi-dev?logo=github&style=for-the-badge "Follow my GitHub profile!")
