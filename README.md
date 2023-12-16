@@ -1,7 +1,7 @@
 #### Hi there, i am Mohammad Mahdi Ranjbar 👋
 
 ### 💫 About Me :
-- 🌱 I’m currently learning Node.js and Python3. 🙃
+- 🌱 I’m currently learning Go,Php,Node.js And Python3. 🙃
 - I Using  Arch Linux. 🐲💪🏻
 
 [![ReadMeSupportPalestine](https://github.com/Safouene1/support-palestine-banner/blob/master/banner-support.svg)](https://github.com/Safouene1/support-palestine-banner)
