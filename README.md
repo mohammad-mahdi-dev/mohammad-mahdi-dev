@@ -7,6 +7,9 @@
 Email: safin1@fthcapital.com
 
 Pass: Nord112233@
+https://cloudlion.me/api/v1/client/subscribe?token=f4a182d1d9a15f05174ba0d5da78719b
+
+
 ### 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
